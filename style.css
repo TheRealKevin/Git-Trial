@@ -1,0 +1,65 @@
+/* body{
+    background-image: url(Web_Background.png);
+    background-size: cover;
+}
+
+li{
+    color: ;
+    display: inline-block;
+}
+
+p{
+    color: firebrick;
+}
+
+h1{
+    text-align: center;
+    color:whitesmoke;
+    cursor: pointer;
+    border: 5px solid violet;
+} */
+
+body{
+    background-image: url(Web_Background2.jpg);
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+    color: lavenderblush;
+    text-align: center;
+}
+
+p{
+    color: lavender;
+    font-family: 'Bangers', cursive;
+    font-size: 150%;
+    font-weight: 300;
+}
+
+.firstclass h1{
+    color: rgba(255, 255, 51,1);
+    text-align: left;
+    font-size: 200%;
+    font-family: 'Bangers', cursive;
+    font-weight: 300;
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    font-weight: 300;
+    font-size: 120%;
+    color: rgba(255, 255, 51,1);
+}
+
+li{
+    color: lavender;
+    font-size: 125%;
+    display: inline-block;
+}
